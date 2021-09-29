@@ -1,0 +1,12 @@
+﻿  a.cpp
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,1): error C2059: syntax error: 'for'
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,21): error C2143: syntax error: missing ')' before ';'
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,21): error C2143: syntax error: missing ';' before '<'
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,41): error C2143: syntax error: missing ';' before '++'
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,40): error C2086: 'int i': redefinition
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9): message : see declaration of 'i'
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(9,43): error C2059: syntax error: ')'
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(10,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dong Jun Woun\source\repos\a\a\a.cpp(10,1): error C2447: '{': missing function header (old-style formal list?)
